@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-raleway: Raleway;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-lgi: 19px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-11xl: 30px;
+  --font-size-7xl: 26px;
+  --font-size-mid: 17px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-201xl: 220px;
+
+  /* Colors */
+  --color-gray-100: #232323;
+  --color-red: #ff0000;
+  --color-white: #fff;
+  --color-darkslategray: #363636;
+  --color-crimson: #ea3232;
+  --color-dimgray: #565656;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-mini: 15px;
+  --br-11xs: 2px;
+}
